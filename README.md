@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Quadros</h1>
 <h3 align="center">A passionate full stack developer from Brasil</h3>
-<div align="center" background="black">
+<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeldquadros&show_icons=true&locale=en" alt="rafaeldquadros" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeldquadros&show_icons=true&locale=en&layout=compact" alt="rafaeldquadros" /></p>
 </div>
