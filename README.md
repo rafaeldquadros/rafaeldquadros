@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafael Quadros</h1>
 <h3 align="center">A passionate full stack developer from Brasil</h3>
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;"> 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeldquadros&show_icons=true&locale=en" alt="rafaeldquadros" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeldquadros&show_icons=true&locale=en&layout=compact" alt="rafaeldquadros" /></p>
 
-</div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaeldquadros" alt="rafaeldquadros" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
